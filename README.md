@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/jacob-thompson"><img src="https://avatars.githubusercontent.com/u/49221320?v=4" alt="Profile" width=250></a>
+  <a href="https://github.com/jacob-thompson"><img src="wave.gif" alt="Welcome" width=250></a>
 </p>
 
 <h1 align="center">Hello, I am <a href="https://jacob-thompson.github.io/">Jacob Thompson</a>.</h1>
