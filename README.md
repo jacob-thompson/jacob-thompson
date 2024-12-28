@@ -6,7 +6,6 @@
 
 <p align="center">
     <a href="https://github.com/jacob-thompson"><img src="https://github-readme-stats.vercel.app/api?username=jacob-thompson&theme=transparent&show_icons=true" alt="jacob-thompson github stats"></a>
-    <a href="https://github.com/jacob-thompson"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacob-thompson&theme=transparent&show_icons=true" alt="jacob-thompson github stats"></a>
 </p>
 
 <p align="center">
